@@ -14,6 +14,6 @@ function divSelector(){
 return $('.pics')
 }
 
-function firstListItem(){
- return $('#pic-list li :first-child')
-}// declare your functions here...
+function firstListItem (){
+  return $('#pic-list li:first-child');
+}
